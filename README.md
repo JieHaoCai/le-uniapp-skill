@@ -5,7 +5,7 @@
 ## 安装
 
 ```bash
-npx skills add JacksonTsai/le-uniapp-skill
+npx skills add JieHaoCai/le-uniapp-skill
 ```
 
 ## 使用
@@ -18,12 +18,6 @@ npx skills add JacksonTsai/le-uniapp-skill
 
 即可在当前目录下创建一个名为 `my-project` 的 uni-app 项目。
 
-### 执行流程
-
-1. 从 Gitee 仓库克隆模版代码
-2. 删除 `.git` 目录（保留 `.gitignore`）
-3. 重新初始化 Git 仓库
-4. 输出创建成功提示和下一步操作指引
 
 ## 模版技术栈
 
