@@ -16,7 +16,7 @@ npx skills add JieHaoCai/le-uniapp-skill
 /le-uniapp-skill my-project
 ```
 
-即可在当前目录下创建一个名为 `my-project` 的 uni-app 项目。
+即可在当前目录下创建一个名为 `my-project` 的 uni-app 标准化结构项目。
 
 
 ## 模版技术栈
